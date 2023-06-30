@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/mlruns/0/667c58b0e2e74276b6ffc3e7d02f76ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 667c58b0e2e74276b6ffc3e7d02f76ad
+run_name: aged-dog-289
+run_uuid: 667c58b0e2e74276b6ffc3e7d02f76ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688140260657
+status: 1
+tags: []
+user_id: vscode
