@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/e7f6f12510804cdc891beed2625c7155/artifacts
+end_time: 1690478746674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7f6f12510804cdc891beed2625c7155
+run_name: rare-tern-751
+run_uuid: e7f6f12510804cdc891beed2625c7155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690478697914
+status: 4
+tags: []
+user_id: vscode

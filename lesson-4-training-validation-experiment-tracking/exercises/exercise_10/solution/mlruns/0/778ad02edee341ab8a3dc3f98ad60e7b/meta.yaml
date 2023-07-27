@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/778ad02edee341ab8a3dc3f98ad60e7b/artifacts
+end_time: 1690479001502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 778ad02edee341ab8a3dc3f98ad60e7b
+run_name: efficient-rat-624
+run_uuid: 778ad02edee341ab8a3dc3f98ad60e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690478999974
+status: 4
+tags: []
+user_id: vscode

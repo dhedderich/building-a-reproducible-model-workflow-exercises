@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/c5eeb6dcd4d44d6fb9216ac4cc81b915/artifacts
+end_time: 1690479886082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5eeb6dcd4d44d6fb9216ac4cc81b915
+run_name: traveling-shoat-52
+run_uuid: c5eeb6dcd4d44d6fb9216ac4cc81b915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690479832629
+status: 4
+tags: []
+user_id: vscode

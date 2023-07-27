@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/4fceb14eb3e04ec3ae8f57f65cc58773/artifacts
+end_time: 1690480065504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fceb14eb3e04ec3ae8f57f65cc58773
+run_name: ambitious-cow-481
+run_uuid: 4fceb14eb3e04ec3ae8f57f65cc58773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690479940313
+status: 3
+tags: []
+user_id: vscode

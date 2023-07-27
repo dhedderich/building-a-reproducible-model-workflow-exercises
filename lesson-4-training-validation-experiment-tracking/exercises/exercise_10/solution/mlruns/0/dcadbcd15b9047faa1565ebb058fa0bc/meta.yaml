@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/dcadbcd15b9047faa1565ebb058fa0bc/artifacts
+end_time: 1690479262421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcadbcd15b9047faa1565ebb058fa0bc
+run_name: wise-bug-629
+run_uuid: dcadbcd15b9047faa1565ebb058fa0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690479257130
+status: 4
+tags: []
+user_id: vscode
