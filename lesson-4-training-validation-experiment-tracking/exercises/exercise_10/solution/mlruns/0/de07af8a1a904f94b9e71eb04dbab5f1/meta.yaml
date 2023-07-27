@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/de07af8a1a904f94b9e71eb04dbab5f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de07af8a1a904f94b9e71eb04dbab5f1
+run_name: dapper-moth-154
+run_uuid: de07af8a1a904f94b9e71eb04dbab5f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690473442127
+status: 1
+tags: []
+user_id: vscode

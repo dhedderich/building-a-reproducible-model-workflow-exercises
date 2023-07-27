@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/591dc3bca5f544ea9a584e3c8300987e/artifacts
+end_time: 1688137957212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 591dc3bca5f544ea9a584e3c8300987e
+run_name: placid-goose-573
+run_uuid: 591dc3bca5f544ea9a584e3c8300987e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688137904924
+status: 4
+tags: []
+user_id: codespace

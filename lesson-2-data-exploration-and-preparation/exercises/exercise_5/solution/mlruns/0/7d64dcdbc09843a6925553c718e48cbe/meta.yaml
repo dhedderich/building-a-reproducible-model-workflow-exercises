@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/7d64dcdbc09843a6925553c718e48cbe/artifacts
+end_time: 1688139313711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d64dcdbc09843a6925553c718e48cbe
+run_name: bemused-pug-710
+run_uuid: 7d64dcdbc09843a6925553c718e48cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688139232487
+status: 4
+tags: []
+user_id: vscode

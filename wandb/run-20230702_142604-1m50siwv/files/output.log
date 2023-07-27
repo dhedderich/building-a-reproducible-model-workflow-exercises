@@ -1,0 +1,36 @@
+[1mcollected 0 items / 1 error                                                                                                                                                                                               
+========================================================================================================= ERRORS ==========================================================================================================
+[31m[1m______________________________________________________________________________________________ ERROR collecting test session ______________________________________________________________________________________________
+[31m[1m/home/vscode/miniconda3/envs/udacity2/lib/python3.8/importlib/__init__.py[39m[22m:127: in import_module
+    [94mreturn[39m _bootstrap._gcd_import(name[level:], package, level)
+[31m[1m<frozen importlib._bootstrap>[39m[22m:1014: in _gcd_import
+    [91m???
+[31m[1m<frozen importlib._bootstrap>[39m[22m:991: in _find_and_load
+    [91m???
+[31m[1m<frozen importlib._bootstrap>[39m[22m:975: in _find_and_load_unlocked
+    [91m???
+[31m[1m<frozen importlib._bootstrap>[39m[22m:671: in _load_unlocked
+    [91m???
+[31m[1m/home/vscode/miniconda3/envs/udacity2/lib/python3.8/site-packages/_pytest/assertion/rewrite.py[39m[22m:163: in exec_module
+    source_stat, co = _rewrite_test(fn, [96mself[39m.config)
+[31m[1m/home/vscode/miniconda3/envs/udacity2/lib/python3.8/site-packages/_pytest/assertion/rewrite.py[39m[22m:345: in _rewrite_test
+    tree = ast.parse(source, filename=strfn)
+[31m[1m/home/vscode/miniconda3/envs/udacity2/lib/python3.8/ast.py[39m[22m:47: in parse
+    [94mreturn[39m [96mcompile[39m(source, filename, mode, flags,
+[31m[1mE     File "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/conftest.py", line 42
+[31m[1mE       # and return it as a float
+[31m[1mE                                ^
+[31m[1mE   SyntaxError: unexpected EOF while parsing
+[33m==================================================================================================== warnings summary =====================================================================================================
+../../home/vscode/miniconda3/envs/udacity2/lib/python3.8/site-packages/pkg_resources/__init__.py:121
+  /home/vscode/miniconda3/envs/udacity2/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+    warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+../../home/vscode/miniconda3/envs/udacity2/lib/python3.8/site-packages/pkg_resources/__init__.py:2870
+  /home/vscode/miniconda3/envs/udacity2/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+  Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+    declare_namespace(pkg)
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[36m[1m================================================================================================= short test summary info =================================================================================================
+[31mERROR[39m  -   File "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/conftest.py", line 42
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[31m============================================================================================== [33m2 warnings[39m, [31m[1m1 error[22m in 15.16s ==============================================================================================

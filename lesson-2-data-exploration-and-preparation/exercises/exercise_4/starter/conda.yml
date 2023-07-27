@@ -1,13 +1,11 @@
-name: download_data
+name: base
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - jupyterlab=3.0.12
-  - seaborn=0.11.1
-  - pandas=1.2.3
-  - pip=20.3.3
-  - pandas-profiling=2.11.0
-  - pyarrow=2.0
+  - jupyterlab=3.6.3=py310h06a4308_0
+  - pandas=1.5.3=py310h1128e8f_0
+  - pip=23.0.1=py310h06a4308_0
+  - pyarrow=11.0.0=py310h468efa6_0
   - pip:
-      - wandb==0.10.21
+        - seaborn==0.11.1
+prefix: /home/codespace/miniconda3

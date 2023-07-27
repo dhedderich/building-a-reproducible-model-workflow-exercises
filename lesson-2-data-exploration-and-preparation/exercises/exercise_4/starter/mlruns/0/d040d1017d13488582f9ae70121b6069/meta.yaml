@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/d040d1017d13488582f9ae70121b6069/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d040d1017d13488582f9ae70121b6069
+run_name: smiling-crow-136
+run_uuid: d040d1017d13488582f9ae70121b6069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688133295589
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/02c5705203f941d9bc1e845bf4ba0cd1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02c5705203f941d9bc1e845bf4ba0cd1
+run_name: rumbling-fawn-890
+run_uuid: 02c5705203f941d9bc1e845bf4ba0cd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688139119580
+status: 1
+tags: []
+user_id: vscode

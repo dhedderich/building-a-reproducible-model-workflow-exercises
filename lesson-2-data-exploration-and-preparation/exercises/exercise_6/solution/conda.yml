@@ -8,4 +8,5 @@ dependencies:
   - pip:
         - wandb==0.15.4
         - protobuf==3.20.*
+        - scikit-learn==0.24.1
 prefix: /home/codespace/miniconda3

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/db21ab2b8c1b4d32bef9c3b58669273b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db21ab2b8c1b4d32bef9c3b58669273b
+run_name: amazing-koi-439
+run_uuid: db21ab2b8c1b4d32bef9c3b58669273b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688137679500
+status: 1
+tags: []
+user_id: codespace

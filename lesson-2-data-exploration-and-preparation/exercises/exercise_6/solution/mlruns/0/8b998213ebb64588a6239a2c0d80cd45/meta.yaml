@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/mlruns/0/8b998213ebb64588a6239a2c0d80cd45/artifacts
+end_time: 1688140864004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b998213ebb64588a6239a2c0d80cd45
+run_name: gaudy-ape-973
+run_uuid: 8b998213ebb64588a6239a2c0d80cd45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688140527158
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/de5978e7846743a4a129367af016a3d1/artifacts
+end_time: 1688139928085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de5978e7846743a4a129367af016a3d1
+run_name: amazing-robin-219
+run_uuid: de5978e7846743a4a129367af016a3d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688139924614
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/a4cff109b3134c0fb8b1cdcfcb729123/artifacts
+end_time: 1688137790928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4cff109b3134c0fb8b1cdcfcb729123
+run_name: kindly-yak-61
+run_uuid: a4cff109b3134c0fb8b1cdcfcb729123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688137729535
+status: 4
+tags: []
+user_id: codespace

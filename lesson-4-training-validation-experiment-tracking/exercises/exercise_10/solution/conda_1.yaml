@@ -1,0 +1,6 @@
+name: download_data
+channels:
+  - defaults
+dependencies:
+  - pip=23.0.1=py310h06a4308_0
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/4499544d8c954b7481eae65c187fb7ea/artifacts
+end_time: 1688138267342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4499544d8c954b7481eae65c187fb7ea
+run_name: gregarious-flea-187
+run_uuid: 4499544d8c954b7481eae65c187fb7ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688138264793
+status: 4
+tags: []
+user_id: codespace

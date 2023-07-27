@@ -1,0 +1,197 @@
+2023-06-30 16:03:11,045 INFO    StreamThr :21669 [internal.py:wandb_internal():86] W&B internal server running at pid: 21669, started at: 2023-06-30 16:03:11.044480
+2023-06-30 16:03:11,048 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: status
+2023-06-30 16:03:11,049 INFO    WriterThread:21669 [datastore.py:open_for_write():85] open: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/run-nwoyrfog.wandb
+2023-06-30 16:03:11,050 DEBUG   SenderThread:21669 [sender.py:send():369] send: header
+2023-06-30 16:03:11,052 DEBUG   SenderThread:21669 [sender.py:send():369] send: run
+2023-06-30 16:03:11,415 INFO    SenderThread:21669 [dir_watcher.py:__init__():211] watching files in: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files
+2023-06-30 16:03:11,416 INFO    SenderThread:21669 [sender.py:_start_run_threads():1100] run started: nwoyrfog with start time 1688140991.043683
+2023-06-30 16:03:11,416 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: summary_record
+2023-06-30 16:03:11,416 INFO    SenderThread:21669 [sender.py:_save_file():1354] saving file wandb-summary.json with policy end
+2023-06-30 16:03:11,423 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: check_version
+2023-06-30 16:03:11,423 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: check_version
+2023-06-30 16:03:11,505 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: run_start
+2023-06-30 16:03:11,506 DEBUG   HandlerThread:21669 [system_info.py:__init__():31] System info init
+2023-06-30 16:03:11,506 DEBUG   HandlerThread:21669 [system_info.py:__init__():46] System info init done
+2023-06-30 16:03:11,506 INFO    HandlerThread:21669 [system_monitor.py:start():181] Starting system monitor
+2023-06-30 16:03:11,506 INFO    SystemMonitor:21669 [system_monitor.py:_start():145] Starting system asset monitoring threads
+2023-06-30 16:03:11,507 INFO    HandlerThread:21669 [system_monitor.py:probe():201] Collecting system info
+2023-06-30 16:03:11,507 INFO    SystemMonitor:21669 [interfaces.py:start():190] Started cpu monitoring
+2023-06-30 16:03:11,508 INFO    SystemMonitor:21669 [interfaces.py:start():190] Started disk monitoring
+2023-06-30 16:03:11,515 DEBUG   HandlerThread:21669 [system_info.py:probe():195] Probing system
+2023-06-30 16:03:11,517 DEBUG   HandlerThread:21669 [system_info.py:_probe_git():180] Probing git
+2023-06-30 16:03:11,519 INFO    SystemMonitor:21669 [interfaces.py:start():190] Started memory monitoring
+2023-06-30 16:03:11,520 INFO    SystemMonitor:21669 [interfaces.py:start():190] Started network monitoring
+2023-06-30 16:03:11,523 DEBUG   HandlerThread:21669 [system_info.py:_probe_git():188] Probing git done
+2023-06-30 16:03:11,523 DEBUG   HandlerThread:21669 [system_info.py:probe():240] Probing system done
+2023-06-30 16:03:11,523 DEBUG   HandlerThread:21669 [system_monitor.py:probe():210] {'os': 'Linux-5.15.0-1041-azure-x86_64-with-glibc2.36', 'python': '3.10.11', 'heartbeatAt': '2023-06-30T16:03:11.515278', 'startedAt': '2023-06-30T16:03:11.034832', 'docker': None, 'cuda': None, 'args': ('--input_artifact', 'exercise_5/preprocessed_data.csv:latest', '--artifact_root', 'data', '--artifact_type', 'raw_data', '--test_size', '0.3', '--random_state', '42', '--stratify', 'genre'), 'state': 'running', 'program': '/workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py', 'codePath': 'lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py', 'git': {'remote': 'https://github.com/dhedderich/building-a-reproducible-model-workflow-exercises', 'commit': '2dcdc75be3cb8cc853e559640218b7b6ea3cefd4'}, 'email': '61595414+dhedderich@users.noreply.github.com', 'root': '/workspaces/building-a-reproducible-model-workflow-exercises', 'host': 'codespaces-ed1310', 'username': 'vscode', 'executable': '/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/bin/python', 'cpu_count': 1, 'cpu_count_logical': 2, 'cpu_freq': {'current': 2593.905, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2593.905, 'min': 0.0, 'max': 0.0}, {'current': 2593.905, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 31.32598876953125, 'used': 18.377792358398438}, 'memory': {'total': 3.8222198486328125}}
+2023-06-30 16:03:11,523 INFO    HandlerThread:21669 [system_monitor.py:probe():211] Finished collecting system info
+2023-06-30 16:03:11,523 INFO    HandlerThread:21669 [system_monitor.py:probe():214] Publishing system info
+2023-06-30 16:03:11,523 DEBUG   HandlerThread:21669 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-06-30 16:03:11,524 DEBUG   HandlerThread:21669 [system_info.py:_save_pip():67] Saving pip packages done
+2023-06-30 16:03:11,524 DEBUG   HandlerThread:21669 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2023-06-30 16:03:12,419 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_created():272] file/dir created: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/wandb-summary.json
+2023-06-30 16:03:12,419 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_created():272] file/dir created: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/conda-environment.yaml
+2023-06-30 16:03:12,419 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_created():272] file/dir created: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/requirements.txt
+2023-06-30 16:03:13,416 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/conda-environment.yaml
+2023-06-30 16:03:13,474 DEBUG   HandlerThread:21669 [system_info.py:_save_conda():86] Saving conda packages done
+2023-06-30 16:03:13,474 INFO    HandlerThread:21669 [system_monitor.py:probe():216] Finished publishing system info
+2023-06-30 16:03:13,476 DEBUG   SenderThread:21669 [sender.py:send():369] send: files
+2023-06-30 16:03:13,477 INFO    SenderThread:21669 [sender.py:_save_file():1354] saving file wandb-metadata.json with policy now
+2023-06-30 16:03:13,490 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: stop_status
+2023-06-30 16:03:13,492 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: stop_status
+2023-06-30 16:03:13,619 DEBUG   SenderThread:21669 [sender.py:send():369] send: telemetry
+2023-06-30 16:03:14,031 INFO    wandb-upload_0:21669 [upload_job.py:push():133] Uploaded file /tmp/tmp4lj13_kbwandb/kc4gpgef-wandb-metadata.json
+2023-06-30 16:03:14,038 DEBUG   SenderThread:21669 [sender.py:send():369] send: use_artifact
+2023-06-30 16:03:14,417 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_created():272] file/dir created: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log
+2023-06-30 16:03:14,418 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_created():272] file/dir created: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/wandb-metadata.json
+2023-06-30 16:03:15,353 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: log_artifact
+2023-06-30 16:03:15,354 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: log_artifact
+2023-06-30 16:03:16,418 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log
+2023-06-30 16:03:17,258 INFO    wandb-upload_0:21669 [upload_job.py:push():91] Uploaded file /home/vscode/.local/share/wandb/artifacts/staging/tmpz1ylobpr
+2023-06-30 16:03:17,997 INFO    SenderThread:21669 [sender.py:send_request_log_artifact():1414] logged artifact data_train.csv - {'id': 'QXJ0aWZhY3Q6NTAyNzM4NDQ4', 'digest': '76d9e232ceb9a99841b540b36edee56e', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjgwMDc0MzI4', 'latestArtifact': None}, 'version': 'latest'}
+2023-06-30 16:03:17,998 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: status_report
+2023-06-30 16:03:18,419 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log
+2023-06-30 16:03:18,676 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: log_artifact
+2023-06-30 16:03:18,676 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: log_artifact
+2023-06-30 16:03:20,420 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log
+2023-06-30 16:03:20,637 INFO    wandb-upload_0:21669 [upload_job.py:push():91] Uploaded file /home/vscode/.local/share/wandb/artifacts/staging/tmpcbwq9tw_
+2023-06-30 16:03:21,481 INFO    SenderThread:21669 [sender.py:send_request_log_artifact():1414] logged artifact data_test.csv - {'id': 'QXJ0aWZhY3Q6NTAyNzM4NDg4', 'digest': '6b5db1ce1146b15be64ab12c0957175d', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjgwMDc0MzM4', 'latestArtifact': None}, 'version': 'latest'}
+2023-06-30 16:03:21,851 DEBUG   SenderThread:21669 [sender.py:send():369] send: exit
+2023-06-30 16:03:21,852 INFO    SenderThread:21669 [sender.py:send_exit():574] handling exit code: 0
+2023-06-30 16:03:21,852 INFO    SenderThread:21669 [sender.py:send_exit():576] handling runtime: 10
+2023-06-30 16:03:21,854 INFO    SenderThread:21669 [sender.py:_save_file():1354] saving file wandb-summary.json with policy end
+2023-06-30 16:03:21,854 INFO    SenderThread:21669 [sender.py:send_exit():582] send defer
+2023-06-30 16:03:21,854 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,855 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 0
+2023-06-30 16:03:21,855 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,855 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 0
+2023-06-30 16:03:21,855 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 1
+2023-06-30 16:03:21,855 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,855 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 1
+2023-06-30 16:03:21,855 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,855 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 1
+2023-06-30 16:03:21,855 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 2
+2023-06-30 16:03:21,856 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,856 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 2
+2023-06-30 16:03:21,856 INFO    HandlerThread:21669 [system_monitor.py:finish():190] Stopping system monitor
+2023-06-30 16:03:21,856 DEBUG   SystemMonitor:21669 [system_monitor.py:_start():159] Starting system metrics aggregation loop
+2023-06-30 16:03:21,856 DEBUG   SystemMonitor:21669 [system_monitor.py:_start():166] Finished system metrics aggregation loop
+2023-06-30 16:03:21,856 DEBUG   SystemMonitor:21669 [system_monitor.py:_start():170] Publishing last batch of metrics
+2023-06-30 16:03:21,856 INFO    HandlerThread:21669 [interfaces.py:finish():202] Joined cpu monitor
+2023-06-30 16:03:21,857 INFO    HandlerThread:21669 [interfaces.py:finish():202] Joined disk monitor
+2023-06-30 16:03:21,857 INFO    HandlerThread:21669 [interfaces.py:finish():202] Joined memory monitor
+2023-06-30 16:03:21,857 INFO    HandlerThread:21669 [interfaces.py:finish():202] Joined network monitor
+2023-06-30 16:03:21,857 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,857 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 2
+2023-06-30 16:03:21,858 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 3
+2023-06-30 16:03:21,858 DEBUG   SenderThread:21669 [sender.py:send():369] send: stats
+2023-06-30 16:03:21,858 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,858 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 3
+2023-06-30 16:03:21,859 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,859 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 3
+2023-06-30 16:03:21,859 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 4
+2023-06-30 16:03:21,859 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,859 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 4
+2023-06-30 16:03:21,859 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,859 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 4
+2023-06-30 16:03:21,859 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 5
+2023-06-30 16:03:21,860 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,860 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 5
+2023-06-30 16:03:21,860 DEBUG   SenderThread:21669 [sender.py:send():369] send: summary
+2023-06-30 16:03:21,860 INFO    SenderThread:21669 [sender.py:_save_file():1354] saving file wandb-summary.json with policy end
+2023-06-30 16:03:21,861 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,861 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 5
+2023-06-30 16:03:21,861 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 6
+2023-06-30 16:03:21,861 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:21,861 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 6
+2023-06-30 16:03:21,862 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:21,862 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 6
+2023-06-30 16:03:21,865 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: status_report
+2023-06-30 16:03:22,035 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 7
+2023-06-30 16:03:22,035 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:22,035 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 7
+2023-06-30 16:03:22,035 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:22,035 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 7
+2023-06-30 16:03:22,421 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/config.yaml
+2023-06-30 16:03:22,421 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/wandb-summary.json
+2023-06-30 16:03:22,853 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: poll_exit
+2023-06-30 16:03:23,632 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 8
+2023-06-30 16:03:23,632 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: poll_exit
+2023-06-30 16:03:23,632 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:23,633 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 8
+2023-06-30 16:03:23,633 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:23,633 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 8
+2023-06-30 16:03:23,633 INFO    SenderThread:21669 [job_builder.py:build():232] Attempting to build job artifact
+2023-06-30 16:03:23,633 INFO    SenderThread:21669 [job_builder.py:build():256] is repo sourced job
+2023-06-30 16:03:23,635 INFO    SenderThread:21669 [job_builder.py:build():297] adding wandb-job metadata file
+2023-06-30 16:03:23,639 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 9
+2023-06-30 16:03:23,639 DEBUG   SenderThread:21669 [sender.py:send():369] send: artifact
+2023-06-30 16:03:23,639 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:23,643 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 9
+2023-06-30 16:03:23,854 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: poll_exit
+2023-06-30 16:03:24,278 INFO    SenderThread:21669 [sender.py:send_artifact():1450] sent artifact job-https___github.com_dhedderich_building-a-reproducible-model..xploration-and-preparation_exercises_exercise_6_solution_run.py - {'id': 'QXJ0aWZhY3Q6NTAyNzM3MDYw', 'digest': 'af094b23d555dc2e99a25dcb557fc9c8', 'state': 'COMMITTED', 'aliases': [{'artifactCollectionName': 'job-https___github.com_dhedderich_building-a-reproducible-model..xploration-and-preparation_exercises_exercise_6_solution_run.py', 'alias': 'latest'}, {'artifactCollectionName': 'job-https___github.com_dhedderich_building-a-reproducible-model..xploration-and-preparation_exercises_exercise_6_solution_run.py', 'alias': 'v0'}], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjgwMDc0MDMz', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NTAyNzM3MDYw', 'versionIndex': 0}}, 'version': 'v0'}
+2023-06-30 16:03:24,278 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:24,278 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 9
+2023-06-30 16:03:24,278 INFO    SenderThread:21669 [dir_watcher.py:finish():359] shutting down directory watcher
+2023-06-30 16:03:24,422 INFO    Thread-12 :21669 [dir_watcher.py:_on_file_modified():289] file/dir modified: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log
+2023-06-30 16:03:24,422 INFO    SenderThread:21669 [dir_watcher.py:finish():389] scan: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files
+2023-06-30 16:03:24,423 INFO    SenderThread:21669 [dir_watcher.py:finish():403] scan save: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/wandb-summary.json wandb-summary.json
+2023-06-30 16:03:24,423 INFO    SenderThread:21669 [dir_watcher.py:finish():403] scan save: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/wandb-metadata.json wandb-metadata.json
+2023-06-30 16:03:24,423 INFO    SenderThread:21669 [dir_watcher.py:finish():403] scan save: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/requirements.txt requirements.txt
+2023-06-30 16:03:24,426 INFO    SenderThread:21669 [dir_watcher.py:finish():403] scan save: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/conda-environment.yaml conda-environment.yaml
+2023-06-30 16:03:24,426 INFO    SenderThread:21669 [dir_watcher.py:finish():403] scan save: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/config.yaml config.yaml
+2023-06-30 16:03:24,428 INFO    SenderThread:21669 [dir_watcher.py:finish():403] scan save: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log output.log
+2023-06-30 16:03:24,432 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 10
+2023-06-30 16:03:24,432 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: poll_exit
+2023-06-30 16:03:24,433 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:24,433 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 10
+2023-06-30 16:03:24,436 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:24,436 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 10
+2023-06-30 16:03:24,436 INFO    SenderThread:21669 [file_pusher.py:finish():159] shutting down file pusher
+2023-06-30 16:03:24,831 INFO    wandb-upload_0:21669 [upload_job.py:push():133] Uploaded file /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/wandb-summary.json
+2023-06-30 16:03:24,854 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: poll_exit
+2023-06-30 16:03:24,855 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: poll_exit
+2023-06-30 16:03:24,947 INFO    wandb-upload_1:21669 [upload_job.py:push():133] Uploaded file /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/requirements.txt
+2023-06-30 16:03:24,994 INFO    wandb-upload_3:21669 [upload_job.py:push():133] Uploaded file /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/config.yaml
+2023-06-30 16:03:25,013 INFO    wandb-upload_2:21669 [upload_job.py:push():133] Uploaded file /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/conda-environment.yaml
+2023-06-30 16:03:25,078 INFO    wandb-upload_4:21669 [upload_job.py:push():133] Uploaded file /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/files/output.log
+2023-06-30 16:03:25,278 INFO    Thread-11 (_thread_body):21669 [sender.py:transition_state():602] send defer: 11
+2023-06-30 16:03:25,279 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:25,279 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 11
+2023-06-30 16:03:25,280 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:25,280 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 11
+2023-06-30 16:03:25,280 INFO    SenderThread:21669 [file_pusher.py:join():164] waiting for file pusher
+2023-06-30 16:03:25,280 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 12
+2023-06-30 16:03:25,280 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:25,280 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 12
+2023-06-30 16:03:25,281 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:25,281 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 12
+2023-06-30 16:03:25,431 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 13
+2023-06-30 16:03:25,431 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:25,431 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 13
+2023-06-30 16:03:25,432 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:25,432 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 13
+2023-06-30 16:03:25,432 INFO    SenderThread:21669 [sender.py:transition_state():602] send defer: 14
+2023-06-30 16:03:25,432 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: defer
+2023-06-30 16:03:25,433 DEBUG   SenderThread:21669 [sender.py:send():369] send: final
+2023-06-30 16:03:25,433 INFO    HandlerThread:21669 [handler.py:handle_request_defer():170] handle defer: 14
+2023-06-30 16:03:25,433 DEBUG   SenderThread:21669 [sender.py:send():369] send: footer
+2023-06-30 16:03:25,433 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: defer
+2023-06-30 16:03:25,433 INFO    SenderThread:21669 [sender.py:send_request_defer():598] handle sender defer: 14
+2023-06-30 16:03:25,434 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: poll_exit
+2023-06-30 16:03:25,435 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: poll_exit
+2023-06-30 16:03:25,437 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: poll_exit
+2023-06-30 16:03:25,437 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: server_info
+2023-06-30 16:03:25,437 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: get_summary
+2023-06-30 16:03:25,437 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: sampled_history
+2023-06-30 16:03:25,438 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: poll_exit
+2023-06-30 16:03:25,438 DEBUG   SenderThread:21669 [sender.py:send_request():396] send_request: server_info
+2023-06-30 16:03:25,562 INFO    MainThread:21669 [wandb_run.py:_footer_history_summary_info():3467] rendering history
+2023-06-30 16:03:25,563 INFO    MainThread:21669 [wandb_run.py:_footer_history_summary_info():3499] rendering summary
+2023-06-30 16:03:25,563 INFO    MainThread:21669 [wandb_run.py:_footer_sync_info():3426] logging synced files
+2023-06-30 16:03:25,564 DEBUG   HandlerThread:21669 [handler.py:handle_request():144] handle_request: shutdown
+2023-06-30 16:03:25,564 INFO    HandlerThread:21669 [handler.py:finish():854] shutting down handler
+2023-06-30 16:03:26,438 INFO    WriterThread:21669 [datastore.py:close():298] close: /workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230630_160311-nwoyrfog/run-nwoyrfog.wandb
+2023-06-30 16:03:26,564 INFO    SenderThread:21669 [sender.py:finish():1526] shutting down sender
+2023-06-30 16:03:26,564 INFO    SenderThread:21669 [file_pusher.py:finish():159] shutting down file pusher
+2023-06-30 16:03:26,565 INFO    SenderThread:21669 [file_pusher.py:join():164] waiting for file pusher

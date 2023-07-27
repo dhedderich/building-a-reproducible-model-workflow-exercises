@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/8da5e01643d048ee8167b6c0c38d3165/artifacts
+end_time: 1688135488790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8da5e01643d048ee8167b6c0c38d3165
+run_name: marvelous-calf-586
+run_uuid: 8da5e01643d048ee8167b6c0c38d3165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688135295816
+status: 4
+tags: []
+user_id: codespace

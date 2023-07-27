@@ -7,6 +7,7 @@ from omegaconf import DictConfig
 
 
 # This automatically reads in the configuration
+print("HELLO")
 @hydra.main(config_name='config')
 def go(config: DictConfig):
 

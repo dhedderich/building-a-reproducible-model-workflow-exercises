@@ -1,0 +1,35 @@
+2023-06-30 16:00:55,215 Downloading and reading artifact
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Project dphedderich/exercise_5 does not contain artifact: "preprocessed_data.csv:latest"
+Traceback (most recent call last):
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/apis/public.py", line 928, in artifact
+    artifact = artifacts.PublicArtifact(self.client, entity, project, artifact_name)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/artifacts/public_artifact.py", line 225, in __init__
+    self._attrs = attrs or self._load()
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/artifacts/public_artifact.py", line 998, in _load
+    raise ValueError(
+ValueError: Project dphedderich/exercise_5 does not contain artifact: "preprocessed_data.csv:latest"
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py", line 122, in <module>
+    go(args)
+  File "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py", line 21, in go
+    artifact = run.use_artifact(args.input_artifact)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 342, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 332, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2675, in use_artifact
+    artifact = public_api.artifact(type=type, name=name)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/apis/normalize.py", line 87, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/apis/public.py", line 928, in artifact
+    artifact = artifacts.PublicArtifact(self.client, entity, project, artifact_name)
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/artifacts/public_artifact.py", line 225, in __init__
+    self._attrs = attrs or self._load()
+  File "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/lib/python3.10/site-packages/wandb/sdk/artifacts/public_artifact.py", line 998, in _load
+    raise ValueError(
+wandb.errors.CommError: Project dphedderich/exercise_5 does not contain artifact: "preprocessed_data.csv:latest"

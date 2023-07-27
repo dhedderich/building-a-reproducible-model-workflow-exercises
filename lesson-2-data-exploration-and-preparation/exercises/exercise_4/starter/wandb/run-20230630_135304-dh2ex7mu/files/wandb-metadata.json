@@ -1,0 +1,56 @@
+{
+    "os": "Linux-5.15.0-1041-azure-x86_64-with-glibc2.31",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-06-30T13:53:04.684709",
+    "startedAt": "2023-06-30T13:53:04.170281",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "--name",
+        "exercise_4/genres_mod.parquet",
+        "--type",
+        "raw_data",
+        "--description",
+        "A modified version of the songs dataset",
+        "genres_mod.parquet"
+    ],
+    "state": "running",
+    "program": "/home/codespace/.python/current/bin/wandb",
+    "git": {
+        "remote": "https://github.com/dhedderich/building-a-reproducible-model-workflow-exercises",
+        "commit": "50403691d9010d020a94e9af85dbab8a7a347832"
+    },
+    "email": "61595414+dhedderich@users.noreply.github.com",
+    "root": "/workspaces/building-a-reproducible-model-workflow-exercises",
+    "host": "codespaces-c19929",
+    "username": "codespace",
+    "executable": "/usr/local/python/3.10.8/bin/python",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2593.905,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.905,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.905,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 31.32598876953125,
+        "used": 16.27682876586914
+    },
+    "memory": {
+        "total": 3.8222198486328125
+    }
+}

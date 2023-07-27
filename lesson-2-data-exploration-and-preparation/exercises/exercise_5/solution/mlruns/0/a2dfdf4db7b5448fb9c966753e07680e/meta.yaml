@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/a2dfdf4db7b5448fb9c966753e07680e/artifacts
+end_time: 1688140021286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2dfdf4db7b5448fb9c966753e07680e
+run_name: stately-fly-253
+run_uuid: a2dfdf4db7b5448fb9c966753e07680e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688139977346
+status: 3
+tags: []
+user_id: vscode

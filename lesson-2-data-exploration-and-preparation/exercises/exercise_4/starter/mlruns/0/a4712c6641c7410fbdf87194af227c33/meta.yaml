@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/a4712c6641c7410fbdf87194af227c33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4712c6641c7410fbdf87194af227c33
+run_name: adventurous-bee-962
+run_uuid: a4712c6641c7410fbdf87194af227c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688133408020
+status: 1
+tags: []
+user_id: codespace

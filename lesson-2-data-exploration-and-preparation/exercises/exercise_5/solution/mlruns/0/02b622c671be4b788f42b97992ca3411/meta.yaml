@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/02b622c671be4b788f42b97992ca3411/artifacts
+end_time: 1688139541876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02b622c671be4b788f42b97992ca3411
+run_name: classy-steed-607
+run_uuid: 02b622c671be4b788f42b97992ca3411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688139530138
+status: 4
+tags: []
+user_id: vscode

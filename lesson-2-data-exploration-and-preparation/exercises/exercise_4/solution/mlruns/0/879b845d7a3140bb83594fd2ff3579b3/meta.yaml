@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/solution/mlruns/0/879b845d7a3140bb83594fd2ff3579b3/artifacts
+end_time: 1688136645323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 879b845d7a3140bb83594fd2ff3579b3
+run_name: clumsy-deer-740
+run_uuid: 879b845d7a3140bb83594fd2ff3579b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688136512302
+status: 4
+tags: []
+user_id: codespace

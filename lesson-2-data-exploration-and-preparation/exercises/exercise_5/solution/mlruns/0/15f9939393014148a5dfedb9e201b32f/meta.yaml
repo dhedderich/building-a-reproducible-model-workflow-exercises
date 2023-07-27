@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/15f9939393014148a5dfedb9e201b32f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15f9939393014148a5dfedb9e201b32f
+run_name: stylish-koi-885
+run_uuid: 15f9939393014148a5dfedb9e201b32f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688139042686
+status: 1
+tags: []
+user_id: vscode

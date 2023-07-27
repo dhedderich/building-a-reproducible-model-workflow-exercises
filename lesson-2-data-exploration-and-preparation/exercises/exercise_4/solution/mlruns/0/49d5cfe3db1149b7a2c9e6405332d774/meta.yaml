@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/solution/mlruns/0/49d5cfe3db1149b7a2c9e6405332d774/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49d5cfe3db1149b7a2c9e6405332d774
+run_name: thundering-fawn-84
+run_uuid: 49d5cfe3db1149b7a2c9e6405332d774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688136458332
+status: 1
+tags: []
+user_id: codespace

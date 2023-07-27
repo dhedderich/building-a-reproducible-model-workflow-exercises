@@ -13,7 +13,29 @@ def go(args):
 
     run = wandb.init(project="exercise_5", job_type="process_data")
 
-    ## YOUR CODE HERE
+    logger.info("Downloading artifact")
+    artifact = run.use_artifact(args.input_artifact)
+    artifact_path = artifact.file()
+
+    df = pd.read_parquet(artifact_path)
+
+    df.drop_duplicates().reset_index(drop=True)
+
+    df['title'].fillna(value='', inplace=True)
+    df['song_name'].fillna(value='', inplace=True)
+    df['text_feature'] = df['title'] + ' ' + df['song_name']
+
+    logger.info("Creating run exercise_5")
+    run = wandb.init(project="exercise_5", job_type="upload_cleaned_file")
+
+    logger.info("Creating artifact")
+    artifact = wandb.Artifact(
+        name=args.artifact_name,
+        type=args.artifact_type,
+        description=args.artifact_description,
+    )
+    artifact.add_file(df)
+    
     pass
 
 
@@ -27,6 +49,13 @@ if __name__ == "__main__":
         "--input_artifact",
         type=str,
         help="Fully-qualified name for the input artifact",
+        required=True,
+    )
+
+    parser.add_argument(
+        "--output_artifact",
+        type=str,
+        help="Fully-qualified name for the output artifact",
         required=True,
     )
 

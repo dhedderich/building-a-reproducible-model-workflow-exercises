@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/194020316e49488e93a80d80da58b4ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 194020316e49488e93a80d80da58b4ca
+run_name: delicate-ram-255
+run_uuid: 194020316e49488e93a80d80da58b4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688133851201
+status: 1
+tags: []
+user_id: codespace

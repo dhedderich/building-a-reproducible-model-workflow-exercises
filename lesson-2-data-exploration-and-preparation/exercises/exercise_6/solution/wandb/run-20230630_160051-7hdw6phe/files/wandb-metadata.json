@@ -1,0 +1,60 @@
+{
+    "os": "Linux-5.15.0-1041-azure-x86_64-with-glibc2.36",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-06-30T16:00:52.385163",
+    "startedAt": "2023-06-30T16:00:51.811716",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "exercise_5/preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "raw_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py",
+    "codePath": "lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py",
+    "git": {
+        "remote": "https://github.com/dhedderich/building-a-reproducible-model-workflow-exercises",
+        "commit": "2dcdc75be3cb8cc853e559640218b7b6ea3cefd4"
+    },
+    "email": "61595414+dhedderich@users.noreply.github.com",
+    "root": "/workspaces/building-a-reproducible-model-workflow-exercises",
+    "host": "codespaces-ed1310",
+    "username": "vscode",
+    "executable": "/home/vscode/miniconda3/envs/mlflow-de42a1f959265468287e990d10168192b62b596e/bin/python",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2593.905,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.905,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.905,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 31.32598876953125,
+        "used": 18.37759017944336
+    },
+    "memory": {
+        "total": 3.8222198486328125
+    }
+}

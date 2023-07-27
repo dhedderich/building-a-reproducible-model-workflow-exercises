@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/d205b5e1f36b404f9a81de156d506ee1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d205b5e1f36b404f9a81de156d506ee1
+run_uuid: d205b5e1f36b404f9a81de156d506ee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690472408424
+status: 1
+tags: []
+user_id: vscode

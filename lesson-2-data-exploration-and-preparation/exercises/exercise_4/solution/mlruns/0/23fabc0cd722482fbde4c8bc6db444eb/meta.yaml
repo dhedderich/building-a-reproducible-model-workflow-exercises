@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/solution/mlruns/0/23fabc0cd722482fbde4c8bc6db444eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23fabc0cd722482fbde4c8bc6db444eb
+run_name: beautiful-tern-936
+run_uuid: 23fabc0cd722482fbde4c8bc6db444eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688136400222
+status: 1
+tags: []
+user_id: codespace

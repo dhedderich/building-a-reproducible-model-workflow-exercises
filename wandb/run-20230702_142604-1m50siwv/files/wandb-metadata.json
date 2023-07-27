@@ -1,0 +1,49 @@
+{
+    "os": "Linux-5.15.0-1041-azure-x86_64-with-glibc2.17",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-07-02T14:26:05.077314",
+    "startedAt": "2023-07-02T14:26:04.542896",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv"
+    ],
+    "state": "running",
+    "program": "/home/vscode/miniconda3/envs/udacity2/bin/pytest",
+    "git": {
+        "remote": "https://github.com/dhedderich/building-a-reproducible-model-workflow-exercises",
+        "commit": "2dcdc75be3cb8cc853e559640218b7b6ea3cefd4"
+    },
+    "email": "61595414+dhedderich@users.noreply.github.com",
+    "root": "/workspaces/building-a-reproducible-model-workflow-exercises",
+    "host": "codespaces-ed1310",
+    "username": "vscode",
+    "executable": "/home/vscode/miniconda3/envs/udacity2/bin/python",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2593.904,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.904,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.904,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 31.32598876953125,
+        "used": 18.395957946777344
+    },
+    "memory": {
+        "total": 3.822216033935547
+    }
+}

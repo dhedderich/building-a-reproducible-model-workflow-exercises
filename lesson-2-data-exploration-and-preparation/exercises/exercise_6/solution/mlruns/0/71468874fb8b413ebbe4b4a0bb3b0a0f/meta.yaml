@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/mlruns/0/71468874fb8b413ebbe4b4a0bb3b0a0f/artifacts
+end_time: 1688141008101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71468874fb8b413ebbe4b4a0bb3b0a0f
+run_name: chill-shark-371
+run_uuid: 71468874fb8b413ebbe4b4a0bb3b0a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688140986713
+status: 3
+tags: []
+user_id: vscode

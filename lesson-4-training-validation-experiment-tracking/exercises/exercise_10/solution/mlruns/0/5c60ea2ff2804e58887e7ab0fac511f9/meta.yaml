@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/5c60ea2ff2804e58887e7ab0fac511f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c60ea2ff2804e58887e7ab0fac511f9
+run_name: salty-seal-523
+run_uuid: 5c60ea2ff2804e58887e7ab0fac511f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690473223381
+status: 1
+tags: []
+user_id: vscode

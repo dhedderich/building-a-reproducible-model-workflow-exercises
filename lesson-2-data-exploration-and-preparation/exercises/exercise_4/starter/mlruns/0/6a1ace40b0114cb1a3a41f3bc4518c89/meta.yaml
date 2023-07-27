@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/6a1ace40b0114cb1a3a41f3bc4518c89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1ace40b0114cb1a3a41f3bc4518c89
+run_name: overjoyed-mouse-423
+run_uuid: 6a1ace40b0114cb1a3a41f3bc4518c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688135176470
+status: 1
+tags: []
+user_id: codespace

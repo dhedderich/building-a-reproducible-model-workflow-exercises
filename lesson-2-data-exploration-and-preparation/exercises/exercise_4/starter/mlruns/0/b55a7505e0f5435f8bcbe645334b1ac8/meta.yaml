@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/b55a7505e0f5435f8bcbe645334b1ac8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b55a7505e0f5435f8bcbe645334b1ac8
+run_name: suave-roo-1000
+run_uuid: b55a7505e0f5435f8bcbe645334b1ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688133965771
+status: 1
+tags: []
+user_id: codespace

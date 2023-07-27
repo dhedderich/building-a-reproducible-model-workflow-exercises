@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/solution/mlruns/0/a3699462b5404a2198f545bd123ed085/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3699462b5404a2198f545bd123ed085
+run_name: rumbling-lamb-563
+run_uuid: a3699462b5404a2198f545bd123ed085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690473383253
+status: 1
+tags: []
+user_id: vscode
