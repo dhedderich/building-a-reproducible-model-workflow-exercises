@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/8f528ff707a740c7ba9b53bf5dcf8231/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f528ff707a740c7ba9b53bf5dcf8231
+run_name: chill-doe-198
+run_uuid: 8f528ff707a740c7ba9b53bf5dcf8231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690473769395
+status: 1
+tags: []
+user_id: vscode
