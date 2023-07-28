@@ -1,0 +1,27 @@
+2023-07-28 15:08:05,488 Downloading and reading train artifact
+2023-07-28 15:08:06,633 Extracting target from dataframe
+2023-07-28 15:08:06,637 Splitting train/val
+2023-07-28 15:08:06,670 Setting up pipeline
+2023-07-28 15:08:06,677 Fitting
+Traceback (most recent call last):
+  File "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/random_forest/run.py", line 176, in <module>
+    go(args)
+  File "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/random_forest/run.py", line 48, in go
+    pipe.fit(X_train, y_train)
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/sklearn/pipeline.py", line 346, in fit
+    self._final_estimator.fit(Xt, y, **fit_params_last_step)
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/sklearn/ensemble/_forest.py", line 387, in fit
+    trees = Parallel(n_jobs=self.n_jobs, verbose=self.verbose,
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/joblib/parallel.py", line 1855, in __call__
+    return output if self.return_generator else list(output)
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/joblib/parallel.py", line 1784, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/sklearn/utils/fixes.py", line 222, in __call__
+    return self.function(*args, **kwargs)
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/sklearn/ensemble/_forest.py", line 169, in _parallel_build_trees
+    tree.fit(X, y, sample_weight=curr_sample_weight, check_input=False)
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/sklearn/tree/_classes.py", line 898, in fit
+    super().fit(
+  File "/home/vscode/miniconda3/envs/mlflow-9f76fd4d608a3ace0639da0d323dce6e2510344c/lib/python3.9/site-packages/sklearn/tree/_classes.py", line 285, in fit
+    if max_depth <= 0:
+TypeError: '<=' not supported between instances of 'list' and 'int'

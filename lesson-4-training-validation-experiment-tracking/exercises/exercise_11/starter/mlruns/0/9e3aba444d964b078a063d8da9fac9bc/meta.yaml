@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/9e3aba444d964b078a063d8da9fac9bc/artifacts
+end_time: 1690556205162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e3aba444d964b078a063d8da9fac9bc
+run_name: stately-penguin-900
+run_uuid: 9e3aba444d964b078a063d8da9fac9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690556139771
+status: 4
+tags: []
+user_id: vscode

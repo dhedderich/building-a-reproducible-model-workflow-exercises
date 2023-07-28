@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/30040793a6c94b82ad6fe07bb333a643/artifacts
+end_time: 1690558746157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30040793a6c94b82ad6fe07bb333a643
+run_name: debonair-moose-108
+run_uuid: 30040793a6c94b82ad6fe07bb333a643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690558723976
+status: 3
+tags: []
+user_id: vscode

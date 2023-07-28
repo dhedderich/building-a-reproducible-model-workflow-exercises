@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3946015ebd194b1d83072779c936553e/artifacts
+end_time: 1690557428571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3946015ebd194b1d83072779c936553e
+run_name: amusing-asp-15
+run_uuid: 3946015ebd194b1d83072779c936553e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557395271
+status: 3
+tags: []
+user_id: vscode

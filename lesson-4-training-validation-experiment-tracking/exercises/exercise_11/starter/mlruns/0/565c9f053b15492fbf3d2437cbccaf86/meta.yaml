@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/565c9f053b15492fbf3d2437cbccaf86/artifacts
+end_time: 1690557840780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 565c9f053b15492fbf3d2437cbccaf86
+run_name: bright-mouse-715
+run_uuid: 565c9f053b15492fbf3d2437cbccaf86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557795061
+status: 3
+tags: []
+user_id: vscode

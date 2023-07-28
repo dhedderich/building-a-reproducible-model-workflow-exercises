@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/mlruns/0/46d9a41d5d8945a8a7a6cdd8bb3ab02f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46d9a41d5d8945a8a7a6cdd8bb3ab02f
+run_name: suave-sponge-258
+run_uuid: 46d9a41d5d8945a8a7a6cdd8bb3ab02f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690569244066
+status: 1
+tags: []
+user_id: vscode

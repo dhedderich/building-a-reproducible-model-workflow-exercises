@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/7299165ce4fd46a6b26d63fb92c0a00d/artifacts
+end_time: 1690557530970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7299165ce4fd46a6b26d63fb92c0a00d
+run_name: bold-asp-20
+run_uuid: 7299165ce4fd46a6b26d63fb92c0a00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557489746
+status: 3
+tags: []
+user_id: vscode

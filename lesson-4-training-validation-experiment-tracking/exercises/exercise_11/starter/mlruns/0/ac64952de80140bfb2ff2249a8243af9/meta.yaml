@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ac64952de80140bfb2ff2249a8243af9/artifacts
+end_time: 1690557237857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac64952de80140bfb2ff2249a8243af9
+run_name: masked-koi-597
+run_uuid: ac64952de80140bfb2ff2249a8243af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557235035
+status: 4
+tags: []
+user_id: vscode

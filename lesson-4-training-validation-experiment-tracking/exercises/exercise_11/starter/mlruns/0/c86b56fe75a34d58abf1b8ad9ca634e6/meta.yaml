@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/c86b56fe75a34d58abf1b8ad9ca634e6/artifacts
+end_time: 1690557466245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c86b56fe75a34d58abf1b8ad9ca634e6
+run_name: handsome-crane-779
+run_uuid: c86b56fe75a34d58abf1b8ad9ca634e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557430145
+status: 3
+tags: []
+user_id: vscode

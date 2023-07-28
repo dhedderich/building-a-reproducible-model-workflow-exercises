@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/27b3d334156a4a4aa715330b889bb48f/artifacts
+end_time: 1690557805328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27b3d334156a4a4aa715330b889bb48f
+run_name: omniscient-sow-282
+run_uuid: 27b3d334156a4a4aa715330b889bb48f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557756693
+status: 3
+tags: []
+user_id: vscode

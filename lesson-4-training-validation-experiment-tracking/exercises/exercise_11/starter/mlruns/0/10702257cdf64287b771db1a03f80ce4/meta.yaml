@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/10702257cdf64287b771db1a03f80ce4/artifacts
+end_time: 1690556440787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10702257cdf64287b771db1a03f80ce4
+run_name: indecisive-frog-175
+run_uuid: 10702257cdf64287b771db1a03f80ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690556328016
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e52f2aefffcd4409bc549af3808855d9/artifacts
+end_time: 1690556441324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e52f2aefffcd4409bc549af3808855d9
+run_name: puzzled-stoat-321
+run_uuid: e52f2aefffcd4409bc549af3808855d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690556325355
+status: 4
+tags: []
+user_id: vscode

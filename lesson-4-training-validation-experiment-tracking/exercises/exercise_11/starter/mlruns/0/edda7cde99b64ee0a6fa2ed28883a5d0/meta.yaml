@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/edda7cde99b64ee0a6fa2ed28883a5d0/artifacts
+end_time: 1690557014281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edda7cde99b64ee0a6fa2ed28883a5d0
+run_name: dapper-stoat-521
+run_uuid: edda7cde99b64ee0a6fa2ed28883a5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690556972627
+status: 3
+tags: []
+user_id: vscode

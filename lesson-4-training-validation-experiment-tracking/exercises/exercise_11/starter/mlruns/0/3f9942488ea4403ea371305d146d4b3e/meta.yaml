@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3f9942488ea4403ea371305d146d4b3e/artifacts
+end_time: 1690556908881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f9942488ea4403ea371305d146d4b3e
+run_name: gifted-trout-349
+run_uuid: 3f9942488ea4403ea371305d146d4b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690556899728
+status: 4
+tags: []
+user_id: vscode

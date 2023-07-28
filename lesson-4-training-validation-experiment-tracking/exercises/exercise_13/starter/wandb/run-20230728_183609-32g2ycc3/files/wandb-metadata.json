@@ -1,0 +1,27 @@
+{
+    "os": "Linux-5.15.0-1042-azure-x86_64-with-glibc2.36",
+    "python": "3.9.17",
+    "heartbeatAt": "2023-07-28T18:36:11.395774",
+    "startedAt": "2023-07-28T18:36:09.997201",
+    "docker": null,
+    "cpu_count": 2,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "exercise_12/model_export:latest",
+        "--test_data",
+        "exercise_6/data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/run.py",
+    "codePath": "lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/run.py",
+    "git": {
+        "remote": "https://github.com/dhedderich/building-a-reproducible-model-workflow-exercises",
+        "commit": "0dd18c61976d0191d9945ab3577545c26f12e0b8"
+    },
+    "email": "61595414+dhedderich@users.noreply.github.com",
+    "root": "/workspaces/building-a-reproducible-model-workflow-exercises",
+    "host": "codespaces-4a3aa3",
+    "username": "vscode",
+    "executable": "/home/vscode/miniconda3/envs/mlflow-e3540f6d5b2afe1cf41a7bb252d4bb8d716ed818/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/fe232eb66d2b4b74b614aa93cbb4e094/artifacts
+end_time: 1690558746367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe232eb66d2b4b74b614aa93cbb4e094
+run_name: peaceful-mouse-22
+run_uuid: fe232eb66d2b4b74b614aa93cbb4e094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690558720917
+status: 3
+tags: []
+user_id: vscode

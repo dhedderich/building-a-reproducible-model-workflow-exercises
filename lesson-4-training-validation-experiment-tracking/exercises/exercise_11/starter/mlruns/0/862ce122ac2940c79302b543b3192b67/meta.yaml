@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/862ce122ac2940c79302b543b3192b67/artifacts
+end_time: 1690558069304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 862ce122ac2940c79302b543b3192b67
+run_name: flawless-squid-165
+run_uuid: 862ce122ac2940c79302b543b3192b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557264465
+status: 3
+tags: []
+user_id: vscode

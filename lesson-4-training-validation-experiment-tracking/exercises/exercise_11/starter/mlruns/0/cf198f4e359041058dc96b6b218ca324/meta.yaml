@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/cf198f4e359041058dc96b6b218ca324/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf198f4e359041058dc96b6b218ca324
+run_name: dapper-perch-722
+run_uuid: cf198f4e359041058dc96b6b218ca324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690555813672
+status: 1
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/81bb55e2f412461a887f667db1607feb/artifacts
+end_time: 1690558018792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81bb55e2f412461a887f667db1607feb
+run_name: nebulous-auk-684
+run_uuid: 81bb55e2f412461a887f667db1607feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557957545
+status: 3
+tags: []
+user_id: vscode

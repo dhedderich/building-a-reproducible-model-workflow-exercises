@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/039d7439e6104ae68cb9f53b9e75abe5/artifacts
+end_time: 1690557904367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 039d7439e6104ae68cb9f53b9e75abe5
+run_name: hilarious-cub-620
+run_uuid: 039d7439e6104ae68cb9f53b9e75abe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557857317
+status: 3
+tags: []
+user_id: vscode

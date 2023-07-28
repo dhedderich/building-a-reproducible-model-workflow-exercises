@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/4a2fe9131131420c9df39327b830e982/artifacts
+end_time: 1690558523549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a2fe9131131420c9df39327b830e982
+run_name: upbeat-trout-387
+run_uuid: 4a2fe9131131420c9df39327b830e982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690558467873
+status: 4
+tags: []
+user_id: vscode

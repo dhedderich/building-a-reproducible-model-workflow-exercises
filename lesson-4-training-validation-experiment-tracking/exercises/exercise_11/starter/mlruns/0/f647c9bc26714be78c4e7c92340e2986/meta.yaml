@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f647c9bc26714be78c4e7c92340e2986/artifacts
+end_time: 1690557350718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f647c9bc26714be78c4e7c92340e2986
+run_name: rogue-wasp-563
+run_uuid: f647c9bc26714be78c4e7c92340e2986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557330220
+status: 3
+tags: []
+user_id: vscode

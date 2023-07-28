@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/7ff87007e6b34189b7fcdf8bd730b32d/artifacts
+end_time: 1690557370665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ff87007e6b34189b7fcdf8bd730b32d
+run_name: awesome-sloth-266
+run_uuid: 7ff87007e6b34189b7fcdf8bd730b32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557350938
+status: 3
+tags: []
+user_id: vscode

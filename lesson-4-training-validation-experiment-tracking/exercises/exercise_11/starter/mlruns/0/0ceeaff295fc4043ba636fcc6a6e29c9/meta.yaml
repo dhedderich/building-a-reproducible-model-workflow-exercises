@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/0ceeaff295fc4043ba636fcc6a6e29c9/artifacts
+end_time: 1690557394797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ceeaff295fc4043ba636fcc6a6e29c9
+run_name: angry-chimp-203
+run_uuid: 0ceeaff295fc4043ba636fcc6a6e29c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557371073
+status: 3
+tags: []
+user_id: vscode

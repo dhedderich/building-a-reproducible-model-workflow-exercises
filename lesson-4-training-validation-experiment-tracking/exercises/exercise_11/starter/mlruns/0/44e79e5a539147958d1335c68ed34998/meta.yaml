@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/44e79e5a539147958d1335c68ed34998/artifacts
+end_time: 1690557794550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44e79e5a539147958d1335c68ed34998
+run_name: bald-frog-700
+run_uuid: 44e79e5a539147958d1335c68ed34998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557744685
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/mlruns/0/c21d72ebbf014f6780fdc27a34e471c7/artifacts
+end_time: 1690569380254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c21d72ebbf014f6780fdc27a34e471c7
+run_name: honorable-snipe-638
+run_uuid: c21d72ebbf014f6780fdc27a34e471c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690569311403
+status: 3
+tags: []
+user_id: vscode

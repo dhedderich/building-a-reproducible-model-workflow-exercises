@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3301d17cc6a243d6b3acead14d9ad8b0/artifacts
+end_time: 1690557756343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3301d17cc6a243d6b3acead14d9ad8b0
+run_name: mysterious-crab-768
+run_uuid: 3301d17cc6a243d6b3acead14d9ad8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557711153
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/building-a-reproducible-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/8de493438e2c481a832da777d5c5221c/artifacts
+end_time: 1690557399424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de493438e2c481a832da777d5c5221c
+run_name: wise-bass-997
+run_uuid: 8de493438e2c481a832da777d5c5221c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557377567
+status: 3
+tags: []
+user_id: vscode

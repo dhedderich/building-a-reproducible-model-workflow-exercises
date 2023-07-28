@@ -1,0 +1,6 @@
+2023-07-28 15:18:56,629 Downloading and reading train artifact
+2023-07-28 15:18:58,214 Extracting target from dataframe
+2023-07-28 15:18:58,223 Splitting train/val
+2023-07-28 15:18:58,298 Setting up pipeline
+2023-07-28 15:18:58,322 Fitting
+2023-07-28 15:19:17,778 Scoring
